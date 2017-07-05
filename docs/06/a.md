@@ -2,7 +2,7 @@
 out: Writer.html
 ---
 
-### Writer? I hardly knew her!
+### The Writer Monad
 
 [Learn You a Haskell for Great Good](http://learnyouahaskell.com/for-a-few-monads-more) says:
 
